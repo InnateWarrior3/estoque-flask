@@ -1,0 +1,10 @@
+{
+    "1": {
+        "username": "admin",
+        "password": "scrypt:32768:8:1$H0APbcio3guoH29Z$57278eb31ab0060ec33847438344e2a206ccf09471bdeeefd22f1a800f36851c35dc39336ba528bb5a67549d7e83d159bdbe8a826d672a7dbac8855c955d875f"
+    },
+    "2": {
+        "username": "Neymar",
+        "password": "scrypt:32768:8:1$NxIPXSLRGJOOVpKR$c2d5e4d29178d17fa11741d11d35eb718de63c66dc137170005a7f7c2dcaf80d2e5d26aeeea994130b29ec61b7724d357849990ef2edf6fc201b27de33fb2c84"
+    }
+}
